@@ -4,6 +4,10 @@ This is a React app that functions as a to-do list, allowing users to add tasks 
 
 You can double click on the tasks to set it as a priority.
 
+## Screenshot
+
+![](public\screenshot.png)
+
 ## Contributing
 
 If you'd like to contribute to this project, please feel free to submit a pull request with your changes. Before submitting, please make sure that your changes are thoroughly tested and documented.
