@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+## Task Master App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a React app that functions as a to-do list, allowing users to add tasks with dates and set reminders for them. The app is built using the React library and includes several UI components that allow users to easily add, edit, and delete tasks, as well as view their upcoming reminders.
+
+You can double click on the tasks to set it as a priority.
+
+## Contributing
+
+If you'd like to contribute to this project, please feel free to submit a pull request with your changes. Before submitting, please make sure that your changes are thoroughly tested and documented.
 
 ## Available Scripts
 
@@ -8,23 +14,23 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
+The page will reload when you make changes.
 You may also see any lint errors in the console.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
+Launches the test runner in the interactive watch mode.
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
+Builds the app for production to the `build` folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
+The build is minified and the filenames include the hashes.
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
