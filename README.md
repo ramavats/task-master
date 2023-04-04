@@ -6,7 +6,7 @@ You can double click on the tasks to set it as a priority.
 
 ## Screenshot
 
-![](public\screenshot.png)
+![](.\public\screenshot.png)
 
 ## Contributing
 
